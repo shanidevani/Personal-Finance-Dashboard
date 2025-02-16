@@ -5,6 +5,8 @@ This **Power BI Personal Finance Dashboard** provides a **detailed analysis of p
 
 The dashboard includes **interactive visualizations** for analyzing **monthly and yearly expenses, cost categories, expense ratios, and spending trends**.
 
+![Personal-Finance-Dashboard](images/Finance%20Analysis%20Dashboard.png)
+
 # **Key Performance Indicators (KPIs)**
 At the top of the dashboard, four key financial metrics provide a quick summary:
   - **Total Cost ($19K)**: The total amount spent across all categories.
@@ -13,6 +15,8 @@ At the top of the dashboard, four key financial metrics provide a quick summary:
   - **Daily Average Cost ($30)**: The average daily expense.
 > [!IMPORTANT]
 > **Insight**: These KPIs help assess personal budgeting and spending patterns over time.
+
+![KPI](images/KPIs.png)
 
 # **Detailed Breakdown of Charts**
 
@@ -24,6 +28,8 @@ This table presents a **detailed breakdown of spending categories** for each yea
 > [!IMPORTANT]
 > **Insight**: Identifying high-cost categories can help optimize spending and set budget limits.
 
+![Yearly and Monthly Expense Table](images/Yearly%20and%20Monthly%20Expense%20Table.png)
+
 ## **2. Monthly Expense Trend (Line Chart)**
 This visualization tracks **monthly spending patterns** across different years.
   - The trend shows **fluctuations in spending behavior**.
@@ -31,12 +37,16 @@ This visualization tracks **monthly spending patterns** across different years.
 > [!IMPORTANT]
 > **Insight**: Understanding these trends can help in budget planning and forecasting future expenses.
 
+![Monthly Expense Trend](images/Monthly%20Expence%20Trend.png)
+
 ## **3. Expense Ratio (Donut Chart)**
 This chart compares expenses on **Weekdays (75%) vs. Weekends (25%)**.
   - **Higher spending on weekdays** suggests regular expenses like food, commuting, and utilities.
   - **Weekend spending is lower**, possibly indicating discretionary expenses.
 > [!IMPORTANT]
 >  **Insight**: This breakdown helps in **managing leisure vs. essential spending**.
+
+![Expense Ratio](images/Expence%20Ratio.png)
 
 ## **4. Top 5 Locations by Cost (Donut Chart)**
 This chart highlights where most of the spending occurs:
@@ -46,12 +56,16 @@ This chart highlights where most of the spending occurs:
 > [!IMPORTANT]
 > **Insight**: Tracking spending locations can help **reduce unnecessary expenses** and optimize grocery purchases.
 
+![Top 5 Locations by Cost](images/Top%205%20Locations%20by%20Cost.png)
+
 ## **5. Category Wise Total Cost (Treemap Chart)**
 This visualization categorizes spending into different segments:
   - **Food & Dining ($13K)** is the dominant category..
   - Other notable expenses include **Health & Wellness ($2K), Entertainment ($2K), and Miscellaneous ($2K)**.
 > [!IMPORTANT]
 > **Insight**: Managing **high-spending categories** can significantly **impact overall financial savings**.
+
+![Category Wise Total Cost](images/Category%20Wise%20Total%20Cost.png)
 
 # **Power BI Features Used in This Dashboard**
   ✅ **Interactive Filters**: Toggle between years, months, and rent-included or excluded expenses.
